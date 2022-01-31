@@ -42,6 +42,7 @@ nav a {
   height: 500px;
   margin: 10px auto;
   overflow: scroll;
+  text-align: center;
 }
 
 /* Content Header */
